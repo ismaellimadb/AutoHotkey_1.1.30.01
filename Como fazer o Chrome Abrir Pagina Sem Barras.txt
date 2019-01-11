@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\Chrome.exe" --app=https://www.youtube.com/watch?v=r4tws8XGPXw&list=PLAJ2qP4mpWrxzyRROtCVvYusto6itBPCr
